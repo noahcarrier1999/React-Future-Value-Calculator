@@ -43,9 +43,6 @@ To get a local copy up and running, follow these steps:
 2. Enter the initial investment amount, regular contribution, interest rate, and investment duration.
 3. View the projected future value and detailed breakdown of contributions and interest earned.
 
-## Screenshots
-
-![Future Value Calculator](.Future Value/src/assets/FVAppImg.png)
 
 ## Technologies Used
 
