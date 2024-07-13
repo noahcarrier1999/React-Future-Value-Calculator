@@ -13,6 +13,9 @@ The Future Value Calculator allows users to project the future value of their in
 - **Detailed Results**: Breakdown of total contributions, interest earned, and future value.
 - **Responsive Design**: Accessible on various devices, including desktops, tablets, and smartphones.
 
+## Screenshot
+![Future Value App](./src/assets/FVAppImg.png)
+
 ## Installation
 
 To get a local copy up and running, follow these steps:
