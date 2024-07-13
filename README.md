@@ -13,6 +13,9 @@ The Future Value Calculator allows users to project the future value of their in
 - **Detailed Results**: Breakdown of total contributions, interest earned, and future value.
 - **Responsive Design**: Accessible on various devices, including desktops, tablets, and smartphones.
 
+## Screenshot
+![Future Value App](./src/assets/FVAppImg.png)
+
 ## Installation
 
 To get a local copy up and running, follow these steps:
@@ -24,7 +27,7 @@ To get a local copy up and running, follow these steps:
 
 2. **Navigate to the project directory**
     ```bash
-    cd future-value-calculator
+    cd "Future Value"
     ```
 
 3. **Install dependencies**
@@ -34,7 +37,7 @@ To get a local copy up and running, follow these steps:
 
 4. **Start the development server**
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## Usage
@@ -43,9 +46,6 @@ To get a local copy up and running, follow these steps:
 2. Enter the initial investment amount, regular contribution, interest rate, and investment duration.
 3. View the projected future value and detailed breakdown of contributions and interest earned.
 
-## Screenshots
-
-![Future Value Calculator](.Future Value/src/assets/FVAppImg.png)
 
 ## Technologies Used
 
