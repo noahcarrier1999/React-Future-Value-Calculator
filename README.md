@@ -45,7 +45,7 @@ To get a local copy up and running, follow these steps:
 
 ## Screenshots
 
-![Future Value Calculator](."Future Value"/src/assets/FVAppImg.png)
+![Future Value Calculator](.Future Value/src/assets/FVAppImg.png)
 
 ## Technologies Used
 
